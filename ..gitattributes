@@ -1,0 +1,6 @@
+text eol=crlf
+
+*.tbl text
+*.tbm text
+*.dds binary
+*.pof binary
